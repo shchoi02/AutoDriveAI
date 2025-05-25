@@ -87,8 +87,8 @@ result[1] : [리스트]           # 학습 모드와 동일한 3‑scale feature
 
 ## 시각화
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/848a3b13-9ffe-4475-a500-370432349a68" width="49%">
-  <img src="https://github.com/user-attachments/assets/0f645c3d-941f-4ae5-97d6-2fb3b27aa783" width="49%">
+  <img src="https://github.com/user-attachments/assets/adf308a8-e87f-48de-8f21-d3880867cdb4" width="49%">
+  <img src="https://github.com/user-attachments/assets/4185d699-346a-4fe5-8703-f1d99861cda2" width="49%">
 </div>
 
 
